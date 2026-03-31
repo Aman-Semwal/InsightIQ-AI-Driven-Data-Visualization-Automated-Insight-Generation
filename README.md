@@ -1,12 +1,12 @@
-# InsightIQ
+# AutoInsight
 
-**InsightIQ** is an AI-powered data visualization and analytics platform that transforms raw datasets into interactive dashboards and automatically generates actionable insights.
+**AutoInsight** is an AI-powered data visualization and analytics platform that transforms raw datasets into interactive dashboards and automatically generates actionable insights.
 
 ---
 
 ## Overview
 
-InsightIQ allows users to upload datasets, analyze them using AI-driven logic, visualize patterns through dynamic charts, and generate reports and forecasts — all in a single platform.
+AutoInsight allows users to upload datasets, analyze them using AI-driven logic, visualize patterns through dynamic charts, and generate reports and forecasts — all in a single platform.
 
 It is designed to simplify data analysis for faster decision-making without requiring deep technical expertise.
 
